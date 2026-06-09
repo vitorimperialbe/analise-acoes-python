@@ -1,7 +1,3 @@
-# Análise de Ações com Python
-
-Projeto final da disciplina de Programação. O objetivo foi usar Python pra analisar o histórico de preços de ações e gerar gráficos mostrando a evolução e o retorno de cada uma.
-
 ## O que o projeto faz
 
 - Lê um arquivo CSV com histórico de preços
